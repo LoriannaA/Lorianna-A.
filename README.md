@@ -63,7 +63,7 @@
 
 Как решал: краткое описание решения (автореферат)
 
-[LINK](https://github.com/LoriannaA/Lorianna-A./commit/389c8947aa034334e72a1d447f252cf3eb335ab8)
+[LINK](https://github.com/LoriannaA/Lorianna-A./commit/4d31f447ce5cd852b98765b956e6e378c4568152)
 
 Выводы (итоги):
 
