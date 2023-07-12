@@ -31,7 +31,7 @@
 
 Как решал: краткое описание решения (автореферат)
 
-LINK
+[LINK](https://github.com/LoriannaA/Lorianna-A./commit/389c8947aa034334e72a1d447f252cf3eb335ab8)
 
 Выводы (итоги):
 
