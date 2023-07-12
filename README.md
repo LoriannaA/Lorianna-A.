@@ -26,3 +26,4 @@
 
 >## Контактная информация
 
+- Email: [lauravetloralo@gmail.com](lauravetloralo@gmail.com)
